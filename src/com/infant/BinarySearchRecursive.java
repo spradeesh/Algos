@@ -1,7 +1,7 @@
 package com.infant;
 
 import java.util.Scanner;
-/* * Java Program to implement binary search algorithm * using recursion **/
+/* * Java Program to implement binary search algorithm * using recursion ***/
 
 public class BinarySearchRecursive {
     public static void main(String[] args) {
